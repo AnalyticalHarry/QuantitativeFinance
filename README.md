@@ -1,1 +1,1 @@
-# Statistics_-_quantitative_analysis
+# Python and Statistics for financial analysis
