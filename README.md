@@ -1,4 +1,4 @@
-### Quant finance 
+# Quant finance 
 
 ## Topics : 
 
