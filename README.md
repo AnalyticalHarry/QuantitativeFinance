@@ -1,20 +1,17 @@
 ### Quant finance 
 
-Topics : 
+## Topics : 
 
-# 1. Fundamental Analysis
+## 1. Fundamental Analysis
 
 - Facebook : https://github.com/AnalyticalHarry/QuantitativeFinance/tree/main/FacebookFundamentalAnalysis
 - Apple: https://github.com/AnalyticalHarry/QuantitativeFinance/tree/main/AppleReport2022
 
-# 2. Technical Analysis
+## 2. Technical Analysis
 
 - Intraday : https://github.com/AnalyticalHarry/QuantitativeFinance/blob/main/IntradayTrading.ipynb
 - Coca cola : https://github.com/AnalyticalHarry/QuantitativeFinance/blob/main/Python_in_Investment_and_Consumer_Banking_part1.ipynb
 
-# 3. Statistics 
-
-- https://github.com/AnalyticalHarry/QuantitativeFinance/blob/main/Python_in_Investment_and_Consumer_Banking_part2.ipynb
 
 
 ```python
